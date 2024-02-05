@@ -10,7 +10,7 @@ node_modules
 
 
 # Виключення папки .idea
-.idea
+../.idea
 
 # Visual code settings
 .vscodev
